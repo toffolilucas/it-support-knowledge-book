@@ -1,11 +1,21 @@
-#CASO
+📌 Descrição do Problema
 
-Usuário com problemas em selecionar textos longos, o mouse executa mais de um clique.
+Usuário relata dificuldade em selecionar textos longos devido ao mouse executar cliques duplos involuntários.
 
-##PROCESSO DE DIAGNÓSTICO
+💻 Ambiente
 
-1. Isolamento de enegia (pilha): retirada da pilha e reinserção da mesma. O passo seguinte é a substituição da fonte de alimentação por uma nova.
-2. Problema de conectividade: testar conexão do dongle em outra porta USB. Se permanecer o problema, verificar o estado do dongle, limpar, reinserir na porta USB.
-3. Validação do software: reinstalar o driver do mouse.
+Dispositivo: Mouse sem fio (Wireless)
 
-Solução final: troca do dispositivo por um novo. O periférico será avaliado posteriormente para melhor diagnóstico.
+Contexto: Uso diário / Diagnóstico de hardware
+
+🔍 Diagnóstico e Tentativas de Solução
+
+Isolamento de Energia: Retirada e reinserção da pilha. Posteriormente, realizada a substituição por uma nova fonte de alimentação para descartar subalimentação do componente.
+
+Conectividade: Teste do dongle USB em outra porta do host. Verificação física, limpeza e reinserção do receptor.
+
+Validação de Software: Reinstalação e atualização do driver do periférico via Gerenciador de Dispositivos.
+
+✅ Solução Aplicada
+
+Substituição do periférico por um novo dispositivo, uma vez que os testes de isolamento de software e energia indicaram falha física (hardware) nos switches do mouse. O dispositivo defeituoso foi retido para posterior análise.
