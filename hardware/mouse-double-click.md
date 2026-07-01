@@ -1,3 +1,5 @@
+# Correção do erro: duplo clique involuntário ##
+
 📌 Descrição do Problema
 
 Usuário relata dificuldade em selecionar textos longos devido ao mouse executar cliques duplos involuntários.
