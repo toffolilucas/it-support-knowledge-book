@@ -1,7 +1,9 @@
 #CASO
+
 Usuário com problemas em selecionar textos longos, o mouse executa mais de um clique.
 
 ##PROCESSO DE DIAGNÓSTICO
+
 1. Isolamento de enegia (pilha): retirada da pilha e reinserção da mesma. O passo seguinte é a substituição da fonte de alimentação por uma nova.
 2. Problema de conectividade: testar conexão do dongle em outra porta USB. Se permanecer o problema, verificar o estado do dongle, limpar, reinserir na porta USB.
 3. Validação do software: reinstalar o driver do mouse.
