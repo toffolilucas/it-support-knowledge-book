@@ -1,11 +1,1 @@
-# it-support-knowledge-book
-Base de conhecimento para suporte TI N1/N2.
-Documentação da resolução de problemas do dia a dia.
-
-Casos documentados:
-
-##Hardware
-*Mouse sem fio falhando
-
-###Software
-*Erro no driver Radeon
+<h1>it-support-knowledge-base 🛠️</h1><br><p>Base de conhecimento pessoal voltada para o suporte de TI N1/N2. Este repositório centraliza a documentação de problemas reais do dia a dia, a lógica de diagnóstico por exclusão e as resoluções aplicadas com foco em eficiência e SLA.</p><br><h2>📂 Casos Documentados</h2><br><h3>💻 Hardware</h3><ul><li><a href="./hardware/mouse-double-click.md">Mouse sem fio executando cliques duplos involuntários</a></li></ul><br><h3>⚙️ Software</h3><ul><li><a href="./hardware/insert-accident.md">Texto sendo sobrescrito e apagado ao digitar (Tecla Insert ativa)</a></li><li><a href="./software/radeon-driver-mismatch-fix.md">Incompatibilidade e erro no driver Radeon</a></li></ul>
